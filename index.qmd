@@ -1,5 +1,18 @@
 ---
 title: "Fouzia Farooq"
+about:
+  template: trestles
+  image: profile.jpg
+  links: 
+    - icon: twitter
+      text: twitter
+      href: http://twitter.com
+    - icon: github
+      text: github
+      href: http://github.com
+    - icon: linkedin
+      text: linkedin
+      href: http://linkedin.com/in/fouziafarooq/
 ---
 
 # About Me
