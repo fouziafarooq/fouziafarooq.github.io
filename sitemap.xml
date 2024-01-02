@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/fouziafarooq/fouziafarooq.github.io/teaching.html</loc>
+    <lastmod>2024-01-02T21:26:56.555Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/fouziafarooq/fouziafarooq.github.io/index.html</loc>
-    <lastmod>2024-01-02T21:10:15.931Z</lastmod>
+    <lastmod>2024-01-02T21:26:56.083Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/fouziafarooq/fouziafarooq.github.io/about.html</loc>
-    <lastmod>2024-01-02T21:10:15.395Z</lastmod>
+    <lastmod>2024-01-02T21:26:55.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/fouziafarooq/fouziafarooq.github.io/publicaitons.html</loc>
+    <lastmod>2024-01-02T21:26:56.327Z</lastmod>
   </url>
 </urlset>

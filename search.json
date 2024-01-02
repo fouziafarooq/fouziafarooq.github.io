@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Add my Teaching stuff\nClass 1"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fouzia Farooq",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "publicaitons.html",
+    "href": "publicaitons.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add my Pubs\nPub1"
   }
 ]
