@@ -7,11 +7,11 @@
     "text": "Add my Teaching stuff\nClass 1"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fouzia Farooq",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About Me\nI am cool. Not."
+    "text": "Add my Pubs\nPub1"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "publicaitons.html",
-    "href": "publicaitons.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fouzia Farooq",
     "section": "",
-    "text": "Add my Pubs\nPub1"
+    "text": "About Me\nI am cool. Not."
   }
 ]
