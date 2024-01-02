@@ -1,11 +1,7 @@
 ---
-title: "temp-quarto"
+title: "Fouzia Farooq"
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am cool. Not.
